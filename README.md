@@ -2,7 +2,7 @@
 
 ## Are you looking for an app that will help keep you organized and on top of everything? Look no further, with QuickNotes you can keep track of all your ToDo items, upcoming assignments and tasks, chores, pending groceries, whatever you need it for the options are endless. 
 
-# Inteneded Functionality for this app:
+# Intended Functionality for this app:
 ### Users will be able to create/delete notes on the fly.
 ### Users will be able to see the character count for their notes dynamically update when new text is added or deleted.
 ### Users will be able to use a search bar to return a list of results (a.k.a. all notes containing search text).
@@ -10,10 +10,6 @@
 ### Users will be able to save to local storage allowing for actual use of the application.
 
 # If you want to contribute to QuickNotes please read and follow the contribution guidelines found in CONTRIBUTIONS.md
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
