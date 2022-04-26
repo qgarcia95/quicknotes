@@ -11,6 +11,8 @@
 
 # If you want to contribute to QuickNotes please read and follow the contribution guidelines found in CONTRIBUTIONS.md
 
+### To start working on the project, open it up in your favorite editor. Open a terminal navigate to the project directory and use `npm start` 
+
 ## Available Scripts
 
 In the project directory, you can run:
