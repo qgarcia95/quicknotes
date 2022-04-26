@@ -3,7 +3,7 @@
 Are you looking for an app that will help keep you organized and on top of everything? Look no further, with QuickNotes you can keep track of all your ToDo items, upcoming assignments and tasks, chores, pending groceries, whatever you need it for the options are endless. 
 
 Inteneded Functionality for this app:
-##Users will be able to create/delete notes on the fly.
+## Users will be able to create/delete notes on the fly.
 Users will be able to see the character count for their notes dynamically update when new text is added or deleted.
 Users will be able to use a search bar to return a list of results (a.k.a. all notes containing search text).
 Users will have the option to switch between light/dark mode while using the app. 
