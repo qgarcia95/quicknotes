@@ -13,7 +13,7 @@ If you have an idea for additional funcitonality go ahead and work on it and sum
 
 # If you want to contribute to QuickNotes please read and follow the contribution guidelines found in CONTRIBUTIONS.md
 
-### To start working on the project, after forking and cloning it open it up in your favorite editor. Open a terminal navigate to the project directory and use `npm start`. Any changes you make will show automatically if you have autosave on if not save the project to see changes to code.
+### To start working on the project after forking and cloning it, you open it up in your favorite editor ( VSCode ) then open a terminal make sure you are in the project directory and use `npm start`. Any changes you make to code will show automatically if you have autosave on if not save the project to see your changes.
 
 ## Available Scripts
 
