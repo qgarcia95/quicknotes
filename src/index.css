@@ -26,8 +26,34 @@ code {
 
 
 }
+.note.new {
+  background-color: aqua;
+}
+
+textarea {
+  border: none;
+  resize: none;
+  background-color: aqua;
+}
+
+textarea:focus {
+  outline: none;
+}
+
+.save {
+  background-color: lightgray;
+  border: none;
+  border-radius: 15px;
+  padding: 5px 10px 5px 10px;
+}
+
+.save:hover {
+  background-color: green;
+  cursor: pointer;
+}
+
 .note {
-  background-color: #aaf188;
+  background-color: rgb(158, 136, 238);
   border-radius: 5px;
   padding: 1rem;
   min-height: 170px;
